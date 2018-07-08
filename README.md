@@ -8,6 +8,8 @@
 Shermbo
 07-Jul-2018
 
+Another test
+
 This example will serve a welcome page and the current hit count as stored in a database.
 
 ### OpenShift Origin v3 setup
