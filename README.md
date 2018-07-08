@@ -6,9 +6,8 @@
 -----------------
 
 Shermbo
-07-Jul-2018
-
-Another test
+07-Jul-2018 
+Test #3
 
 This example will serve a welcome page and the current hit count as stored in a database.
 
