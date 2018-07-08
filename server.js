@@ -85,7 +85,7 @@ app.get('/pagecount', function (req, res) {
   }
   if (db) {
     db.collection('counts').count(function(err, count ){
-      res.send('{ pageCounty: ' + count + '}');
+      res.send('{ pageCountythingy: ' + count + '}');
       //res.send('{ dbName: ' + db.getMongo() + '}');
     });
   } else {
